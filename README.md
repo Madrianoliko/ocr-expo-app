@@ -1,8 +1,10 @@
 # ocr-expo-app
 React Native Expo app with OCR feature.
 
-npm install
-npx expo start
+<code>npm install</code>
+<br>
+<code>npx expo start</code>
+
 
 <img src="https://github.com/Madrianoliko/ocr-expo-app/assets/51478114/17670e17-c225-442f-8acf-c664048342fb" alt="drawing" width="200"/>
 &nbsp&nbsp
